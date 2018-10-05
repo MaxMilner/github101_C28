@@ -1,3 +1,10 @@
+body {
+  background-color: plum;
+}
 h1 {
   color: green;
+}
+
+p {
+  color: aquamarine;
 }
